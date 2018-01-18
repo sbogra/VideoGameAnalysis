@@ -1,0 +1,2 @@
+# VideoGameAnalysis
+Extracted, transformed and loaded data from a wide variety of data sources. Used pyplot and seaborn python libraries for visualization based upon matplotlib for drawing attractive statistical graphics. Trend prediction for video games sales based per region as well as platforms. Rating Analysis of video games across the world using Entertainment Software Rating Board (ESRB) and IGN ratings interpreting trend analysis using python graphs.
